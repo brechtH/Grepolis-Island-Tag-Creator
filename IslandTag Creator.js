@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         IslandTag Creator
 // @author       The Invincble
-// @version      1.1.0
+// @version      1.0.0
 // @description  Full Panner + Clean Spatial Raster Engine
 // @match        https://*.grepolis.com/game/*
 // @grant        none
