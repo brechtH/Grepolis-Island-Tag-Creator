@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         IslandTag Creator
-// @namespace    brecht-grepo
+// @author       The Invincble
 // @version      1.1.0
 // @description  Full Panner + Clean Spatial Raster Engine
 // @match        https://*.grepolis.com/game/*
